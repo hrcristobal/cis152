@@ -175,7 +175,7 @@ footer {
     td::before {
         position: absolute; /* pos:a */
         top: 6px; /* t6 */
-        left: 1.5em; /* l1.5em */
+        left: 0.5em; /* l0.5em */
         font-weight: bold; /* fwb */
         color: #1976d2; /* c#1976d2 */
     }
